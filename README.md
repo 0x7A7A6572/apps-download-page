@@ -1,24 +1,6 @@
-# apps-download-page
+## 界面 
+![电脑界面](https://zzerx.cn/blogimages/sl-001.png)
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![手机界面](https://zzerx.cn/blogimages/sl-005.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

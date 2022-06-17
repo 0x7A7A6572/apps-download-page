@@ -41,6 +41,7 @@ export default {
 }
 
 .footer-icp span {
+
     margin: 0em 1em;
 }
 </style>
